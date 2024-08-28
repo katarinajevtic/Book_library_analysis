@@ -24,4 +24,4 @@ This project performs an analysis on a dataset of books, focusing on the distrib
 + Provides a summary of key findings, including the number of books per category and the average rating by category.
 
 ## License
-This project is licensed under the MIT License. See the [LICENCE](MIT) file for more details.
+This project is licensed under the MIT License. See the [LICENCE](https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt) file for more details.
