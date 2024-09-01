@@ -1,4 +1,4 @@
-# Book Library Analysis
+# Books Library Analysis
 This project performs an analysis on a dataset of books, focusing on the distribution of book ratings and the number of books per category. The analysis includes data cleaning, basic statistics, and visualizations to provide insights into the dataset.
 
 ## Features
